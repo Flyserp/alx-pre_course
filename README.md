@@ -1,2 +1,1 @@
-my first readme
-as a software engineer
+my first readme updated
